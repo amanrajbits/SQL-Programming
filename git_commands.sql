@@ -61,3 +61,31 @@ git clone remote_location clone_name
 git remote -v
 git fetch
 git merge origin/master
+
+
+cd ~
+git branch
+git statsh
+git pull origin branch_name
+
+git add filename
+
+git commit -m "cooment"
+git push -u origin master 
+
+
+sudo chmod -R 0777 DbVisualizer
+
+grep -ir  user_sessions a2live_31oct17.sql
+
+mysql -uroot -p dev < migration_script.sql 
+
+sudo dpkg -i bcompare-4.2.3.22587_amd64.deb
+
+sudo openvpn client.ovpn
+/home/aman/private
+
+sudo apt-get purge google-chrome-stable
+sudo apt-get autoremove
+
+sudo update-rc.d -f openvpn  remove
